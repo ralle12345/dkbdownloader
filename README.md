@@ -5,8 +5,8 @@ The German bank DKB makes bank statements for their credit cards and checking ac
 DKB Downloader will log in to the web site and download all PDFs in the "Briefkasten" that are not already downloaded and present in the 
 configured download directory.
 
-DKB Downloader is based on `"DKB VISA QIF Exporter" by Christian Hoffmann <https://github.com/hoffie/dkb-visa>`. It borrows all the codes 
-to access the DKB web site from the project. 
+DKB Downloader is based on "DKB VISA QIF Exporter" by Christian Hoffmann <https://github.com/hoffie/dkb-visa>. It borrows 
+all the code to access the DKB web site from the project. 
 
 
 Requirements
